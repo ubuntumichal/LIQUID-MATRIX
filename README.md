@@ -1,4 +1,4 @@
-# Solana Trading Agent - LIQUID MATRIX Edition
+LIQUID MATRIX
 
 **Status:** 🎯 Production Ready | 
 **Version:** 10.7.110 | 
